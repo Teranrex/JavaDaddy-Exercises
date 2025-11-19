@@ -12,3 +12,4 @@
 
 - Класс должен называться `IteratorRemovalDemo`.
 - Файл: `IteratorRemovalDemo.java`.
+
